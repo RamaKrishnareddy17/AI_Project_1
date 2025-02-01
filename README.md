@@ -10,4 +10,3 @@ Edit
 python search.py
 Once the script is executed, all the corresponding output files will be generated.
 No additional module installations were required in my IDE.
-Let me know if you need further refinements! 🚀
