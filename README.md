@@ -1,9 +1,13 @@
 # Project_1
 
-Steps for execution of the code:
-1.	Copy the search.py file from the Ramakrishna.zip folder and paste it into the folder where you are executing to test the scenarios.
-2.	Now, in any IDE, open the specified folder containing the project code and related files.
-3.	Open the terminal and run the following command.
-                 python search.py
-4.	All the respective output files will be generated once the Python file is run.
-5.	As per my IDE, I did not install any modules specifically.
+Steps to Execute the Code:
+Copy the search.py file from the Ramakrishna.zip folder and paste it into the directory where you plan to run the test scenarios.
+Open your preferred IDE and navigate to the folder containing the project code and related files.
+Open the terminal and run the following command:
+sh
+Copy
+Edit
+python search.py
+Once the script is executed, all the corresponding output files will be generated.
+No additional module installations were required in my IDE.
+Let me know if you need further refinements! 🚀
